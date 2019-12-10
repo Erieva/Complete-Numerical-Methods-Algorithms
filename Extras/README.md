@@ -27,4 +27,4 @@ Outputs:
 A = desired special matrix 
 
 Limitations:
-Only creates this kind of special matrix 
+Only able to create the special matrix stated above.
