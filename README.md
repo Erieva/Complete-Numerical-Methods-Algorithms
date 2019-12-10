@@ -1,3 +1,7 @@
 # Numerical-Methods_Algorithms
 
-##Algorithms Created at Colorado State University MECH 105
+## Created By: Erith Katie Evans
+## Colorado State University 
+## 2019
+Algorithms Created for: MECH 105 
+Instructor: Dr. Sam Bechara
