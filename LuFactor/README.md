@@ -1,11 +1,19 @@
 # LU Factoring Algorithm
 
-##What the Alogirthm is:
+## What the Alogirthm is:
+This algorithm conducts an LU decomposition with pivoting.
 
-##Inputs:
+## Inputs:
+A = coefficient matrix
 
-##Outputs:
+## Outputs:
+L= lower triangular matrix
+U= upper triangular matrix
+P = permutation matrix
 
-##Limitations:
+## Limitations:
+This will not work if the coefficient matrix is ill-conditioned. 
+Only uses partial pivoting. 
 
-##Notes:
+## Notes:
+n/a
