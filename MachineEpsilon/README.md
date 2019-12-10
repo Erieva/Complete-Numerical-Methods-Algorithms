@@ -10,7 +10,7 @@ Start by setting a variable equal to 1.
 Displays the machine epsilon of the computuer to the user.
 
 ##Limitations:
-Not aware of any limitations
+Limitations Unknown
 
 ##Notes: 
 n/a
